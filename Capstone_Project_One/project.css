@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(0,0,40);
+    color: white;
+    font-size: 18px;
+    border-left: 40px rgb(33, 182, 168) solid;
+    border-bottom: 40px rgb(33, 182, 168) solid;
+    border-right: 40px rgb(33, 182, 168) solid;
+}
+
+h1{
+    text-align: center;
+    margin: auto;
+    padding-bottom: 2%;
+}
+
+h2{
+    text-align: center;
+    margin: auto;
+    padding-bottom: 5%;
+}
+
+p{
+    text-align: center;
+    margin: auto;
+    padding-bottom: 5%;
+    width: 60%;
+}
+
+form{
+    text-align: center;    
+}
+
+input{
+    width: 300px;
+    height: 40px;
+    font-size: 1.7em;
+    margin-bottom: 10px;
+}
+
+
+#submit{
+    background-color: darkgoldenrod;
+    width: 200px;
+    height: 107px;
+    font-size: 2em;
+    text-align: center;
+    border-radius: 15px;
+    
+}
+
+
+
